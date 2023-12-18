@@ -52,6 +52,16 @@
  ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_7.png)
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_6.png)
 
+Так как у меня элементы данных CPU и Memory присуствуют в двух шаблонах, я не могу назначить два шаблона на один узел сети. О чём zabbix мне говорит.
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_8.png)
+
+Если в первом задании надо было просто создать шаблон без ключей system.cpu.load[percpu,avg1] и vm.memory.size[available], то к узлу сети можно привязать два шаблона, главное, чтобы элемены данных не были одинаковыми.
+
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_9.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_10.png)
+
+
+
 ### Задание 4
 Создайте свой кастомный дашборд.
 
