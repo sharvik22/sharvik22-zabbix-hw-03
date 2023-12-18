@@ -75,7 +75,11 @@
 
  ---
  ### Решение 4
- 
+ На первой страницы можно сделать общую информацию об узлах сети.
+ ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_11.png)
+ На второй: вывод отдельной информации об узле с выбором узла сети.
+ ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_12.png)
+ ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_13.png)
 
 ### Задание 5* со звёздочкой
 Создайте карту и расположите на ней два своих хоста.
