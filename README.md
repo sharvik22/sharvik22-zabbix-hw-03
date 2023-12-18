@@ -49,6 +49,8 @@
 
  ---
  ### Решение 3
+ ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_7.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_6.png)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
