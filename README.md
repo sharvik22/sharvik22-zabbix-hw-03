@@ -14,9 +14,9 @@
 
  ---
 ### Решение 1
-![alt text](https://github.com/sharvik22/zabbix-hw-03/blob/main/images/Screenshot_1.png)
-![alt text](https://github.com/sharvik22/zabbix-hw-03/blob/main/images/Screenshot_2.png)
-![alt text](https://github.com/sharvik22/zabbix-hw-03/blob/main/images/Screenshot_3.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_1.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_2.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-03/blob/main/images/Screenshot_3.png)
 
 ### Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
